@@ -1,0 +1,78 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 29 Dec 2024 16:12:32 at https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/index.html +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p7DaK0H0%kf2o0A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/index.html -O1 "C:\Users\Mohamed-Aymane\Desktop\Module d'apprentissage en pneumologie - Tuberculose thoracique (FMPM)" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:15:16	Error: 	"Not Found" (404) at link https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/jquery-1.4.3.min.js (from https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/index.html)
+16:15:20	Warning: 	HTML file (5813 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc1.html
+16:15:21	Warning: 	HTML file (5879 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc2.html
+16:15:22	Warning: 	HTML file (5556 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc3.html
+16:15:24	Warning: 	HTML file (5477 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc4.html
+16:15:26	Warning: 	HTML file (6473 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc5.html
+16:15:27	Warning: 	HTML file (6018 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc6.html
+16:15:28	Warning: 	HTML file (6500 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc7.html
+16:15:29	Warning: 	HTML file (7237 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc8.html
+16:15:31	Warning: 	HTML file (6387 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc9.html
+16:15:32	Warning: 	HTML file (5831 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc10.html
+16:15:33	Warning: 	HTML file (5617 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc11.html
+16:15:35	Warning: 	HTML file (5629 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc12.html
+16:15:36	Warning: 	HTML file (6227 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc13.html
+16:15:37	Warning: 	HTML file (5428 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc14.html
+16:15:38	Warning: 	HTML file (5709 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc15.html
+16:15:39	Warning: 	HTML file (5793 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc16.html
+16:15:41	Warning: 	HTML file (6185 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc17.html
+16:15:42	Warning: 	HTML file (5503 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc18.html
+16:15:44	Warning: 	HTML file (6766 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc19.html
+16:15:46	Warning: 	HTML file (5741 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc20.html
+16:15:48	Warning: 	HTML file (5432 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc21.html
+16:15:49	Warning: 	HTML file (5282 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc22.html
+16:15:49	Warning: 	HTML file (6502 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc23.html
+16:15:51	Warning: 	HTML file (6271 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc24.html
+16:15:52	Warning: 	HTML file (5881 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc25.html
+16:15:53	Warning: 	HTML file (5812 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc26.html
+16:15:55	Warning: 	HTML file (5597 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc27.html
+16:15:56	Warning: 	HTML file (6969 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc28.html
+16:15:57	Warning: 	HTML file (6498 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc29.html
+16:15:58	Warning: 	HTML file (6597 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc30.html
+16:15:59	Warning: 	HTML file (5330 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc31.html
+16:16:00	Warning: 	HTML file (7146 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc32.html
+16:16:00	Warning: 	HTML file (7190 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc33.html
+16:16:01	Warning: 	HTML file (5535 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc34.html
+16:16:01	Warning: 	HTML file (5916 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc35.html
+16:16:02	Warning: 	HTML file (6621 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc36.html
+16:16:02	Warning: 	HTML file (5925 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc37.html
+16:16:03	Warning: 	HTML file (5457 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc38.html
+16:16:03	Warning: 	HTML file (6961 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc39.html
+16:16:04	Warning: 	HTML file (5292 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc40.html
+16:16:04	Warning: 	HTML file (5432 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc41.html
+16:16:05	Warning: 	HTML file (5549 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc42.html
+16:16:06	Warning: 	HTML file (7083 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc43.html
+16:16:06	Warning: 	HTML file (6479 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc44.html
+16:16:06	Warning: 	HTML file (6045 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc45.html
+16:16:07	Warning: 	HTML file (5461 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc46.html
+16:16:07	Warning: 	HTML file (5317 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc47.html
+16:16:08	Warning: 	HTML file (5981 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc48.html
+16:16:08	Warning: 	HTML file (7145 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc49.html
+16:16:09	Warning: 	HTML file (5407 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc50.html
+16:16:09	Warning: 	HTML file (5999 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc51.html
+16:16:10	Warning: 	HTML file (6579 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc52.html
+16:16:10	Warning: 	HTML file (5419 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc53.html
+16:16:11	Warning: 	HTML file (6828 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc54.html
+16:16:11	Warning: 	HTML file (5368 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc55.html
+16:16:12	Warning: 	HTML file (5891 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc56.html
+16:16:12	Warning: 	HTML file (5638 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc57.html
+16:16:13	Warning: 	HTML file (6635 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc58.html
+16:16:13	Warning: 	HTML file (5533 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc59.html
+16:16:14	Warning: 	HTML file (7094 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc60.html
+16:16:14	Warning: 	HTML file (5856 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc61.html
+16:16:15	Warning: 	HTML file (5410 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc62.html
+16:16:15	Warning: 	HTML file (7393 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc63.html
+16:16:16	Warning: 	HTML file (6437 bytes) retransferred due to lack of cache: https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc64.html
+16:16:17	Error: 	"Not Found" (404) at link https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/cas_pics/rc57.JPG (from https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc57.html)
+16:16:17	Error: 	"Not Found" (404) at link https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/images/page.png (from https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 45 seconds : 290 links scanned, 351 files written (25563807 bytes overall) [25123087 bytes received at 111658 bytes/sec], 834125 bytes transferred using HTTP compression in 142 files, ratio 33%
+(3 errors, 64 warnings, 0 messages)
